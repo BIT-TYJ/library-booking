@@ -1,0 +1,539 @@
+1658191170742	geckodriver	INFO	Listening on 127.0.0.1:40495
+1658191171660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYTpTsk"
+
+(firefox:5021): Gtk-WARNING **: 08:39:31.703: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:5021): Gtk-WARNING **: 08:39:31.703: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191173349	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5116): Gtk-WARNING **: 08:39:34.504: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5116): Gtk-WARNING **: 08:39:34.504: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5143): Gtk-WARNING **: 08:39:34.662: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5143): Gtk-WARNING **: 08:39:34.662: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYTpTsk/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:5222): Gtk-WARNING **: 08:39:36.949: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5222): Gtk-WARNING **: 08:39:36.949: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191177072	Marionette	INFO	Listening on port 38877
+1658191177271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658191245048	geckodriver	INFO	Listening on 127.0.0.1:42277
+1658191245051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefWnwao"
+
+(firefox:5433): Gtk-WARNING **: 08:40:45.085: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:5433): Gtk-WARNING **: 08:40:45.085: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191246124	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5513): Gtk-WARNING **: 08:40:46.516: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5513): Gtk-WARNING **: 08:40:46.516: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5536): Gtk-WARNING **: 08:40:46.660: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5536): Gtk-WARNING **: 08:40:46.661: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefWnwao/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:5621): Gtk-WARNING **: 08:40:48.323: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5621): Gtk-WARNING **: 08:40:48.323: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191248354	Marionette	INFO	Listening on port 37921
+1658191248379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191254865	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1658191270941	geckodriver	INFO	Listening on 127.0.0.1:44589
+1658191270946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerfiLrD"
+
+(firefox:5753): Gtk-WARNING **: 08:41:10.985: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:5753): Gtk-WARNING **: 08:41:10.985: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191272057	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:5831): Gtk-WARNING **: 08:41:12.376: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5831): Gtk-WARNING **: 08:41:12.377: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5859): Gtk-WARNING **: 08:41:12.554: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5859): Gtk-WARNING **: 08:41:12.554: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerfiLrD/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:5927): Gtk-WARNING **: 08:41:13.768: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:5927): Gtk-WARNING **: 08:41:13.769: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191274790	Marionette	INFO	Listening on port 34723
+1658191274869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191318854	geckodriver	INFO	Listening on 127.0.0.1:42387
+1658191318857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAwhRvX"
+
+(firefox:6066): Gtk-WARNING **: 08:41:58.893: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:6066): Gtk-WARNING **: 08:41:58.893: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191319928	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:6148): Gtk-WARNING **: 08:42:00.336: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6148): Gtk-WARNING **: 08:42:00.336: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6170): Gtk-WARNING **: 08:42:00.458: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6170): Gtk-WARNING **: 08:42:00.459: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAwhRvX/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:6247): Gtk-WARNING **: 08:42:02.287: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6247): Gtk-WARNING **: 08:42:02.287: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191322319	Marionette	INFO	Listening on port 46499
+1658191322381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658191323289	Marionette	INFO	Stopped listening on port 34723
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191324887	Marionette	INFO	Stopped listening on port 37921
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "stylesheets: fetch failed for https://passport2.chaoxing.com/css/fanya/common.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://passport2.chaoxing.com/css/fanya/login.css, using system principal instead."
+JavaScript error: resource://devtools/server/actors/page-style.js, line 570: TypeError: node is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658191423989	geckodriver	INFO	Listening on 127.0.0.1:56131
+1658191423992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePLBFkA"
+
+(firefox:6433): Gtk-WARNING **: 08:43:44.026: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:6433): Gtk-WARNING **: 08:43:44.026: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191425094	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:6507): Gtk-WARNING **: 08:43:45.451: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6507): Gtk-WARNING **: 08:43:45.451: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6535): Gtk-WARNING **: 08:43:45.582: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6535): Gtk-WARNING **: 08:43:45.582: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePLBFkA/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:6609): Gtk-WARNING **: 08:43:47.166: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6609): Gtk-WARNING **: 08:43:47.166: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191427200	Marionette	INFO	Listening on port 39375
+1658191427223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+
+(/usr/lib/firefox/firefox:6668): Gtk-WARNING **: 08:43:51.382: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6668): Gtk-WARNING **: 08:43:51.382: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191443869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1658191459091	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1658191474290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1658191489498	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658191502740	geckodriver	INFO	Listening on 127.0.0.1:36659
+1658191502743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNyEHXu"
+
+(firefox:6856): Gtk-WARNING **: 08:45:02.780: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:6856): Gtk-WARNING **: 08:45:02.780: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191503915	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:6937): Gtk-WARNING **: 08:45:04.347: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6937): Gtk-WARNING **: 08:45:04.347: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6964): Gtk-WARNING **: 08:45:04.559: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:6964): Gtk-WARNING **: 08:45:04.560: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNyEHXu/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:7044): Gtk-WARNING **: 08:45:06.100: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:7044): Gtk-WARNING **: 08:45:06.100: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191506140	Marionette	INFO	Listening on port 34997
+1658191506175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191645416	geckodriver	INFO	Listening on 127.0.0.1:41083
+1658191645419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilem2inMs"
+
+(firefox:7296): Gtk-WARNING **: 08:47:25.455: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:7296): Gtk-WARNING **: 08:47:25.456: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191646571	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:7389): Gtk-WARNING **: 08:47:26.990: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:7389): Gtk-WARNING **: 08:47:26.990: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:7411): Gtk-WARNING **: 08:47:27.132: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:7411): Gtk-WARNING **: 08:47:27.132: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem2inMs/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:7487): Gtk-WARNING **: 08:47:28.866: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:7487): Gtk-WARNING **: 08:47:28.866: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191648891	Marionette	INFO	Listening on port 45185
+1658191648949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658191650808	Marionette	INFO	Stopped listening on port 34997
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191655379	Marionette	INFO	Stopped listening on port 45185
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658191736789	geckodriver	INFO	Listening on 127.0.0.1:39461
+1658191736792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9vmSI1"
+
+(firefox:7983): Gtk-WARNING **: 08:48:56.830: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:7983): Gtk-WARNING **: 08:48:56.830: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191737893	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:8064): Gtk-WARNING **: 08:48:58.220: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8064): Gtk-WARNING **: 08:48:58.221: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8092): Gtk-WARNING **: 08:48:58.350: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8092): Gtk-WARNING **: 08:48:58.350: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9vmSI1/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:8167): Gtk-WARNING **: 08:48:59.992: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8167): Gtk-WARNING **: 08:48:59.992: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191740040	Marionette	INFO	Listening on port 46759
+1658191740115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191812698	geckodriver	INFO	Listening on 127.0.0.1:41547
+1658191812700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuvZufb"
+
+(firefox:8313): Gtk-WARNING **: 08:50:12.737: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:8313): Gtk-WARNING **: 08:50:12.737: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191813794	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:8391): Gtk-WARNING **: 08:50:14.245: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8391): Gtk-WARNING **: 08:50:14.245: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8413): Gtk-WARNING **: 08:50:14.374: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8413): Gtk-WARNING **: 08:50:14.374: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuvZufb/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:8508): Gtk-WARNING **: 08:50:16.006: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8508): Gtk-WARNING **: 08:50:16.006: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191816031	Marionette	INFO	Listening on port 37657
+1658191816126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658191880925	geckodriver	INFO	Listening on 127.0.0.1:37427
+1658191880928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileyh4K6q"
+
+(firefox:8678): Gtk-WARNING **: 08:51:20.966: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:8678): Gtk-WARNING **: 08:51:20.966: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191882031	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:8761): Gtk-WARNING **: 08:51:22.437: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8761): Gtk-WARNING **: 08:51:22.437: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8783): Gtk-WARNING **: 08:51:22.598: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8783): Gtk-WARNING **: 08:51:22.598: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyh4K6q/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:8859): Gtk-WARNING **: 08:51:24.134: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:8859): Gtk-WARNING **: 08:51:24.134: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658191884269	Marionette	INFO	Listening on port 46139
+1658191884378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1658191886745	Marionette	INFO	Stopped listening on port 37657
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "stylesheets: fetch failed for https://passport2.chaoxing.com/css/fanya/login.css, using system principal instead."
+JavaScript error: resource://devtools/server/actors/page-style.js, line 570: TypeError: node is null
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: (new TypeError("can't access dead object", "resource://devtools/server/actors/style-rule.js", 362))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle24 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'domnode's method 'getImageData'" "CanvasRenderingContext2D.drawImage: Passed-in image is \"broken\""
+console.error: ({})
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1658192025189	geckodriver	INFO	Listening on 127.0.0.1:56691
+1658192025192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAYa2VN"
+
+(firefox:9175): Gtk-WARNING **: 08:53:45.230: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:9175): Gtk-WARNING **: 08:53:45.230: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658192027337	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:9265): Gtk-WARNING **: 08:53:47.730: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:9265): Gtk-WARNING **: 08:53:47.730: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:9288): Gtk-WARNING **: 08:53:47.857: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:9288): Gtk-WARNING **: 08:53:47.857: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAYa2VN/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:9365): Gtk-WARNING **: 08:53:49.513: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:9365): Gtk-WARNING **: 08:53:49.513: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658192029540	Marionette	INFO	Listening on port 39191
+1658192029623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+
+(/usr/lib/firefox/firefox:9428): Gtk-WARNING **: 08:53:57.038: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:9428): Gtk-WARNING **: 08:53:57.038: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.error: "Error while calling actor 'domnode's method 'getImageData'" "CanvasRenderingContext2D.drawImage: Passed-in image is \"broken\""
+console.error: ({})
+1658192155294	Marionette	INFO	Stopped listening on port 39191
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658192155858	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1658192162009	Marionette	INFO	Stopped listening on port 46759
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658221045953	geckodriver	INFO	Listening on 127.0.0.1:55305
+1658221046904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileF5adTW"
+
+(firefox:27307): Gtk-WARNING **: 16:57:27.891: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:27307): Gtk-WARNING **: 16:57:27.891: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658221053250	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:27420): Gtk-WARNING **: 16:57:36.034: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:27420): Gtk-WARNING **: 16:57:36.034: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:27455): Gtk-WARNING **: 16:57:36.532: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:27455): Gtk-WARNING **: 16:57:36.532: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:27494): Gtk-WARNING **: 16:57:37.547: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:27494): Gtk-WARNING **: 16:57:37.547: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF5adTW/search.json.mozlz4", (void 0)))
+1658221061041	Marionette	INFO	Listening on port 44989
+1658221061483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: http://reserve.chaoxing.com/staticreserve/js/lib/requirejs/require.min.js, line 5: Error: Script error for "fancybox", needed by: tipImgs
+http://requirejs.org/docs/errors.html#scripterror
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658224161671	geckodriver	INFO	Listening on 127.0.0.1:49243
+1658224162637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLEYHqV"
+
+(firefox:31355): Gtk-WARNING **: 17:49:22.992: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:31355): Gtk-WARNING **: 17:49:22.992: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658224166664	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:31463): Gtk-WARNING **: 17:49:28.186: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:31463): Gtk-WARNING **: 17:49:28.187: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:31498): Gtk-WARNING **: 17:49:28.549: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:31498): Gtk-WARNING **: 17:49:28.549: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLEYHqV/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:31560): Gtk-WARNING **: 17:49:30.230: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:31560): Gtk-WARNING **: 17:49:30.230: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658224171983	Marionette	INFO	Listening on port 41373
+1658224172095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658310976747	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1658316010287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1658390679917	geckodriver	INFO	Listening on 127.0.0.1:56629
+1658390680825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexVNMQt"
+
+(firefox:10118): Gtk-WARNING **: 16:04:41.199: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:10118): Gtk-WARNING **: 16:04:41.199: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658390684026	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:10199): Gtk-WARNING **: 16:04:44.548: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:10199): Gtk-WARNING **: 16:04:44.548: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:10222): Gtk-WARNING **: 16:04:44.673: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:10222): Gtk-WARNING **: 16:04:44.673: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexVNMQt/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:10303): Gtk-WARNING **: 16:04:46.450: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:10303): Gtk-WARNING **: 16:04:46.450: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658390686475	Marionette	INFO	Listening on port 38203
+1658390686556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658390692802	Marionette	INFO	Stopped listening on port 41373
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658418380439	geckodriver	INFO	Listening on 127.0.0.1:59581
+1658418381382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile84hYdD"
+
+(firefox:2216): Gtk-WARNING **: 23:46:21.416: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:2216): Gtk-WARNING **: 23:46:21.416: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418382746	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2295): Gtk-WARNING **: 23:46:23.194: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2295): Gtk-WARNING **: 23:46:23.194: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2317): Gtk-WARNING **: 23:46:23.287: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2317): Gtk-WARNING **: 23:46:23.287: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile84hYdD/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:2486): Gtk-WARNING **: 23:46:25.161: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2486): Gtk-WARNING **: 23:46:25.161: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418385189	Marionette	INFO	Listening on port 35175
+1658418385204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658418434766	geckodriver	INFO	Listening on 127.0.0.1:42881
+1658418434837	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileA8RcmR"
+
+(firefox:2605): Gtk-WARNING **: 23:47:14.867: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:2605): Gtk-WARNING **: 23:47:14.867: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418435876	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2686): Gtk-WARNING **: 23:47:16.260: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2686): Gtk-WARNING **: 23:47:16.260: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2709): Gtk-WARNING **: 23:47:16.354: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2709): Gtk-WARNING **: 23:47:16.354: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA8RcmR/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:2787): Gtk-WARNING **: 23:47:17.906: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2787): Gtk-WARNING **: 23:47:17.906: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418437928	Marionette	INFO	Listening on port 43905
+1658418437958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658418452589	geckodriver	INFO	Listening on 127.0.0.1:59031
+1658418452592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilel9Ru26"
+
+(firefox:2883): Gtk-WARNING **: 23:47:32.621: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:2883): Gtk-WARNING **: 23:47:32.621: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418453598	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2968): Gtk-WARNING **: 23:47:33.941: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2968): Gtk-WARNING **: 23:47:33.942: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2991): Gtk-WARNING **: 23:47:34.045: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:2991): Gtk-WARNING **: 23:47:34.045: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel9Ru26/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:3065): Gtk-WARNING **: 23:47:35.403: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:3065): Gtk-WARNING **: 23:47:35.403: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418455428	Marionette	INFO	Listening on port 37455
+1658418455516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1658418480096	geckodriver	INFO	Listening on 127.0.0.1:40257
+1658418480098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGevh7j"
+
+(firefox:3560): Gtk-WARNING **: 23:48:00.127: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(firefox:3560): Gtk-WARNING **: 23:48:00.127: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418481118	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3641): Gtk-WARNING **: 23:48:01.447: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:3641): Gtk-WARNING **: 23:48:01.447: Theme parsing error: gtk.css:3372:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:3664): Gtk-WARNING **: 23:48:01.541: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:3664): Gtk-WARNING **: 23:48:01.541: Theme parsing error: gtk.css:3372:9: No property named 'label'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGevh7j/search.json.mozlz4", (void 0)))
+
+(/usr/lib/firefox/firefox:3739): Gtk-WARNING **: 23:48:02.910: Theme parsing error: gtk.css:3366:9: No property named 'label'
+
+(/usr/lib/firefox/firefox:3739): Gtk-WARNING **: 23:48:02.910: Theme parsing error: gtk.css:3372:9: No property named 'label'
+1658418482931	Marionette	INFO	Listening on port 39531
+1658418483019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1658447969717	Marionette	INFO	Stopped listening on port 39531
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1658447972285	Marionette	INFO	Stopped listening on port 35175
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
