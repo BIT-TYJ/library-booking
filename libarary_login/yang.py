@@ -4,8 +4,8 @@ import requests
 from selenium import webdriver
 import time
 url = "https://passport2.chaoxing.com/mlogin?loginType=1&newversion=true&fid=&refer=https%3A%2F%2Foffice.chaoxing.com%2Ffront%2Fthird%2Fapps%2Freserve%2Fitem%2Freserve%3FitemId%3D9153%26fidEnc%3D9435181f6d5f71dc%26reserveId%3D3646"
-username = '13615605026'
-pwd = 'yzy20020622'
+username = 'xxxxxxxxxx6'
+pwd = 'xxxxxx'
 # 判断是否有错误提示弹出框
 def alert_is_present(driver):
     try:
