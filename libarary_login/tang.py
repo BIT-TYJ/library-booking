@@ -3,8 +3,8 @@ import requests
 from selenium import webdriver
 import time
 url = "https://passport2.chaoxing.com/mlogin?loginType=1&newversion=true&fid=&refer=https%3A%2F%2Foffice.chaoxing.com%2Ffront%2Fthird%2Fapps%2Freserve%2Fitem%2Freserve%3FitemId%3D9153%26fidEnc%3D9435181f6d5f71dc%26reserveId%3D3646"
-username = '18800186387'
-pwd = 'a13956621590'
+username = 'xxxxxxxxxxx'
+pwd = 'xxxxxxxxxxx'
 # 判断是否有错误提示弹出框
 def alert_is_present(driver):
     try:
@@ -20,8 +20,8 @@ if __name__ == '__main__':
     driver=webdriver.Firefox()
     while 1:
         driver.get(url)
-        driver.find_element_by_id("phone").send_keys("18800186387")
-        driver.find_element_by_id("pwd").send_keys("a13956621590")
+        driver.find_element_by_id("phone").send_keys("xxxxxxxxxxxx7")
+        driver.find_element_by_id("pwd").send_keys("xxxxxxxx")
         login=driver.find_element_by_class_name("margin-btm24" ) #根据id找到登录按钮
         login.click()
         time.sleep(4)
